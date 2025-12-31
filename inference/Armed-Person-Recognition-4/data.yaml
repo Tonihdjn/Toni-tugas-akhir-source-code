@@ -1,0 +1,14 @@
+names:
+- gun
+- person
+- person with a gun
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: armed-person-recognition-gohff
+  url: https://universe.roboflow.com/s-gbust/armed-person-recognition-gohff/dataset/4
+  version: 4
+  workspace: s-gbust
+test: ../test/images
+train: ../train/images
+val: ../valid/images
